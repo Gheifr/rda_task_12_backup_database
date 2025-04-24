@@ -1,4 +1,4 @@
-#!/bin/bash
+#! /bin/bash
 DB_USER="${DB_USER}"
 DB_PASSWORD="${DB_PASSWORD}"
 
